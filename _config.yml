@@ -13,12 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jackie Yee Porfolio
+title: Jackie Yee
 email: jackieyee5000@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Web Designer. Graphic Designer. Data Analyst. Data-Driven. Detail Oriented. First Generation.
 twitter_username: username
 github_username: pasteldetective
 repository: pasteldetective/pasteldetective.github.io
@@ -61,11 +59,11 @@ plugins:
 author:
   name   : "Jackie Yee"
   avatar : "/assets/images/linkedin_pfp.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Tableau Developer, interested in advocating for accessibility for POC students."
   links:
-    - label: "Website"
+    - label: "Archived Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://sites.google.com/view/jackieyee/home"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"

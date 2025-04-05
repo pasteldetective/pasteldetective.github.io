@@ -1,8 +1,10 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Coming from a first-generation and Chinese Vietnamese-American background, I've experienced many barriers related to education and accessibility. Connecting with people who come from similar backgrounds to mine, I realized that this experience is not an uncommon one. Which is why I believe in advocating for DEI initiatives and fostering communities for people of color. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+At CUNY, I frequented many campuses in Manhattan, Bronx and Queens, and connected with many diverse groups of people there. At York College, I was involved in undergraduate research which challenged and furthered my analytical thinking and data visualization skills. From my unique experiences at CUNY, it cannot be understated that it is owed to many amazing professors and people from all walks of life.
+
+Currently as a Tableau Dashboard Developer at CUNY Office of Applied Research, Evaluation and Data Analytics (OAREDA), I gather trends and insight for New York City Public Schools (NYCPS) regarding K-16 programs, create web accessible and interactive dashboards, and report to the Evaluation team. As a former NYCPS high student myself, I am grateful to advocate for students in marginalized communities to receive the necessary resources to be career ready and thrive in higher education. I value and am committed to continuous learning for all. As such, at COOP Careers, I am on the data analytics track for professional development and to continue growing in the data analytics field.
