@@ -12,6 +12,9 @@ header:
   teaser: /assets/images/wf_portfolio.png
   overlay_image: /assets/images/wf_portfolio.png
   overlay_filter: 0.7
+  actions:
+  - label: "Explore"
+    url: "https://public.tableau.com/views/WildfireDashboard_17399692565930/Dashboard12?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
 toc: true
 toc_label: "On This Page"
 ---

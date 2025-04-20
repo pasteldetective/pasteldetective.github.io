@@ -1,5 +1,6 @@
 ---
-title: "Project: Campus Management System"
+title: "Campus Management System"
+collection: portfolio
 categories:
   - Projects
 tags:
@@ -12,15 +13,26 @@ tags:
   - Node.js
   - HTML
   - CSS
+header:
+  teaser: /assets/images/cms_portfolio.png
+  overlay_image: /assets/images/cms_portfolio.png
+  overlay_filter: 0.5
+  actions:
+    - label: "Front-end"
+      url: "https://github.com/pasteldetective/CRUDClient"
+    - label: "Back-end"
+      url: "https://github.com/pasteldetective/CRUDServer"
+toc: true
+toc_label: "On This Page"
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VYpdt4hCvh4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-(This project was done as part of my Practical Web Development class)
+## Introduction
+This project was done as part of my Practical Web Development class
 
-<h2 id="purpose">Purpose</h2>
+## Purpose
 This project is intended to build a **Campus Management System** using the full-stack web technologies of **PostgreSQL**, **Express**, **React**, and **Node.js** (PERN technology stack).
 
-## Project Goals:
+## Project Goals
 
 - Building a **RESTful full-stack web application** to manage students and campuses using **Node**, **Express**, **React**, **Redux**, **PostgreSQL**, and **Sequelize** (an ORM).
   
@@ -32,6 +44,5 @@ This project is intended to build a **Campus Management System** using the full-
   
 - Creating two individual repositories for **client-side (front-end)** and **server-side (back-end)** applications (i.e., a separate client and a separate server), for separation of concerns and modularity.
 
-- [Click Here For The Client-end Source Code](https://github.com/pasteldetective/CRUDClient)
-
-- [Click Here For The Server-end Source Code](https://github.com/pasteldetective/CRUDServer)
+## Demo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VYpdt4hCvh4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

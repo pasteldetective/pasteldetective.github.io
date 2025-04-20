@@ -17,6 +17,11 @@ header:
   teaser: /assets/images/cms_portfolio.png
   overlay_image: /assets/images/cms_portfolio.png
   overlay_filter: 0.5
+  actions:
+    - label: "Front-end"
+      url: "https://github.com/pasteldetective/CRUDClient"
+    - label: "Back-end"
+      url: "https://github.com/pasteldetective/CRUDServer"
 toc: true
 toc_label: "On This Page"
 ---
@@ -41,6 +46,3 @@ This project is intended to build a **Campus Management System** using the full-
 
 ## Demo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VYpdt4hCvh4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-- [Click Here For The Client-end Source Code](https://github.com/pasteldetective/CRUDClient)
-
-- [Click Here For The Server-end Source Code](https://github.com/pasteldetective/CRUDServer)
