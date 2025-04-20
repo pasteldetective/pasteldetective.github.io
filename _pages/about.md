@@ -1,6 +1,9 @@
 ---
 permalink: /about/
 title: "About Me"
+header:
+  image: /assets/images/Wallpaper.png
+  overlay_filter: 0.5
 ---
 
 Coming from a first-generation and Chinese Vietnamese-American background, I've experienced many barriers related to education and accessibility. Connecting with people who come from similar backgrounds to mine, I realized that this experience is not an uncommon one. Which is why I believe in advocating for DEI initiatives and fostering communities for people of color. 
