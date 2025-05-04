@@ -9,6 +9,7 @@ tags:
   - React
   - HTML
   - CSS
+excerpt: "A website showcasing React applications."
 header:
   teaser: /assets/images/bor_portfolio.png
   overlay_image: /assets/images/bor_portfolio.png

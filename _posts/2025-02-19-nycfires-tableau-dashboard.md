@@ -8,6 +8,7 @@ tags:
   - Tableau
   - Data Viz
   - Adobe Photoshop
+excerpt: "An exploration of wildfires in NYS from 2008 to 2023."
 header:
   teaser: /assets/images/wf_portfolio.png
   overlay_image: /assets/images/wf_portfolio.png
@@ -17,6 +18,8 @@ header:
     url: "https://public.tableau.com/views/WildfireDashboard_17399692565930/Dashboard12?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
 toc: true
 toc_label: "On This Page"
+date: 2025-02-19  # Initial publish date
+last_modified_at: 2025-02-19  # Last update date
 ---
 ## Introduction
 This project serves to analyze data provided by the NYS Department of Environmental Conservation Division of Forest Protection and to provide insights and trends on wildfires in NYS. This project was done using Tableau. This dashboard contains an overview of why I decided to work on this project and following sections contain analysis of wildfires on a county, monthly and cause level.

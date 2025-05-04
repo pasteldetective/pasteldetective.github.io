@@ -11,6 +11,7 @@ tags:
   - CSS
   - Render
   - Figma
+excerpt: "An application for suggesting recipes to users based on their dietary preferences."
 header:
   teaser: /assets/images/tb_port.png
   overlay_image: /assets/images/tb_port.png

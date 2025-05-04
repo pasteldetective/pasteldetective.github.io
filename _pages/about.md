@@ -1,6 +1,8 @@
 ---
 permalink: /about/
 title: "About Me"
+layout: single
+classes: wide
 header:
   image: /assets/images/Wallpaper.png
   overlay_filter: 0.5

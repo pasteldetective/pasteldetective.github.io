@@ -13,6 +13,7 @@ tags:
   - Node.js
   - HTML
   - CSS
+excerpt: "A full-stack web application for Campus Management."
 header:
   teaser: /assets/images/cms_portfolio.png
   overlay_image: /assets/images/cms_portfolio.png
