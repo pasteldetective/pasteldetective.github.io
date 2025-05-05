@@ -18,10 +18,10 @@ author_profile: true
 #    title: "Placeholder 1"
 #    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
-  - image_path: /assets/images/tacoma_proj.jpg
+  - image_path: /assets/images/tacoma_proj.png
     alt: "placeholder image 1"
     title: "Tacoma Method and I.C.E. (W.I.P)"
-    excerpt: "How written legislation forcefully displaced Chinese-Americans and modern day parallels."
+    excerpt: "How written legislation forcefully displaced Chinese-Americans in Tacoma and modern day parallels."
     url: "/projects/tacoma/"
     btn_label: "Learn More"
     btn_class: "btn--inverse"
@@ -43,5 +43,3 @@ feature_row2:
 {% include feature_row id="feature_row1" type="left" %}
 
 {% include feature_row id="feature_row2" %}
-
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40%" height="40%" />
