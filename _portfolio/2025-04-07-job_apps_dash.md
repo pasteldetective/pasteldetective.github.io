@@ -27,7 +27,7 @@ WeStaff, a recruiting firm in Los Angeles, specializes in sourcing underrepresen
 ## Instructions
 The user can click on filters or hover over parts of this dashboard for more information.
 
-## Demo
-You can find the demo by clicking the button below:
+## Demo and Slides
+You can find the demo and slides by clicking the button below:
 
-[Click here for Demo!](https://public.tableau.com/views/LAJobApplicationsDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link){: .btn .btn--inverse}
+[Click here for Demo!](https://public.tableau.com/views/LAJobApplicationsDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link){: .btn .btn--inverse} [Click here for Slides!](https://docs.google.com/presentation/d/1krEbUGcrE8PPVU2rtLU61bRRD6ekvr1dbxbqi9jE_o8/edit?slide=id.g346ea3b8ff3_5_607#slide=id.g346ea3b8ff3_5_607){: .btn .btn--info}
