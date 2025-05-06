@@ -101,10 +101,12 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
       share: true
       related: true
+      show_date: true  # This enables date display
+      date_format: "%B %d, %Y"  # Optional: Customize date format
   # _pages
   - scope:
       path: "_pages"
@@ -119,8 +121,12 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       share: true
+      comments: true
+      related: true
+      show_date: true  
+      date_format: "%B %d, %Y" 
 
 category_archive:
   type: liquid
