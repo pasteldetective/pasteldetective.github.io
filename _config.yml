@@ -22,6 +22,7 @@ github_username: pasteldetective
 repository: pasteldetective/pasteldetective.github.io
 minimal_mistakes_skin: neon
 search: true
+favicon: "/assets/images/favicon.ico" 
 
 # Collections 
 collections:

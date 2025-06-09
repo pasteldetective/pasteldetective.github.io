@@ -18,7 +18,7 @@ author_profile: true
 #    title: "Placeholder 1"
 #    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
-  - image_path: /assets/images/tacoma_proj.png
+  - image_path: /assets/images/Prejudices We Face.png
     alt: "placeholder image 1"
     title: "Tacoma Method and I.C.E. (W.I.P)"
     excerpt: "How written legislation forcefully displaced Chinese-Americans in Tacoma and modern day parallels."
