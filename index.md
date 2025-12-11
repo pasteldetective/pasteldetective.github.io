@@ -4,13 +4,11 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 classes: wide
-title: "Tableau Developer"
-header:
-  overlay_image: /assets/images/header_1.png
-  overlay_filter: 0.5
-  actions:
-    - label: "Learn More"
-      url: "/about/"
+#title: " fe"
+#header:
+#  overlay_image: /assets/images/header_1.png
+#  overlay_filter: 0.5
+#excerpt: 
 author_profile: true
 #feature_row1:
 #  - image_path: /assets/images/jyee2_pfp.jpg
@@ -18,11 +16,11 @@ author_profile: true
 #    title: "Placeholder 1"
 #    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
-  - image_path: /assets/images/Prejudices We Face.png
+  - image_path: /assets/images/ATnT_front.png
     alt: "placeholder image 1"
-    title: "Tacoma Method and I.C.E. (W.I.P)"
-    excerpt: "How written legislation forcefully displaced Chinese-Americans in Tacoma and modern day parallels."
-    url: "/projects/tacoma/"
+    title: "LA Job Applications Dashboard"
+    excerpt: "An exploration of LA job applications from 2022 to 2023."
+    url: "/portfolio/2025-04-07-job-apps-dash/"
     btn_label: "Learn More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/wf_portfolio.png
@@ -40,6 +38,14 @@ feature_row2:
     btn_class: "btn--inverse"
 
 ---
-{% include feature_row id="feature_row1" type="left" %}
+<link rel="icon" type="image/png" href="/assets/images/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/svg+xml" href="/assets/images/favicon.svg" />
+<link rel="shortcut icon" href="/assets/images/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/images/apple-touch-icon.png" />
+<link rel="manifest" href="/assets/images/site.webmanifest" />
 
-{% include feature_row id="feature_row2" %}
+<br>
+{% include feature_row id="feature_row2" %} 
+
+
+
